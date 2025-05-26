@@ -11,8 +11,8 @@ function Navbar() {
         </div>
         <ul className="hidden md:flex gap-8 ">
           <li>
-            <a href="/about" className="hover:text-red-400">
-              Tentang
+            <a href="/" className="hover:text-red-400">
+              Home
             </a>
           </li>
           <li>

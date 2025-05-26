@@ -4,7 +4,7 @@ import Footer from '../components/footer'
 
 function Review() {
     return (
-        <div>
+        <div className='flex flex-col max-h-screen bg-gray-500'>
                 <Navbar />
                 <div>
                 <div className="flex-grow">
