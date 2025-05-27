@@ -6,8 +6,6 @@ import StatSection from '../components/stat-section'
 import Timeline from '../components/timeline'
 import Footer from '../components/footer'
 
-
-
 export default function HomePage() {
   return (
     <div>

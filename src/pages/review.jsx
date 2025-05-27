@@ -4,9 +4,9 @@ import Footer from "../components/footer";
 
 function Review() {
   return (
-    <div className="flex flex-col max-h-screen bg-gray-500">
+    <div className="flex flex-col bg-gray-500">
       <Navbar />
-      <div>
+      <div className="h-screen">
         <div className="flex-grow">
           <h1 className="font-bold text-5xl py-7 text-center">
             Review dari peserta sintax

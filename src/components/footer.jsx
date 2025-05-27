@@ -2,7 +2,7 @@ import { CodeXml, Facebook, Instagram, Youtube } from 'lucide-react';
 import React from 'react'
 
 function Footer() {
-return (
+return (  
   <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content items-center p-4">
     <aside className="grid-flow-col items-center">
       <CodeXml />
